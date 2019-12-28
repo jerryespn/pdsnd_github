@@ -19,11 +19,11 @@ def get_city():
                  'Would you like to see data for Chicago, New York, or Washington?\n')
         if city.lower() in ('chicago', 'new york', 'washington'):
             if city.lower() == 'chicago':
-                return 'C:/Users/JulioGerardoEspinosa/Desktop/PyDev/BikeShare/DataSets/chicago.csv'
+                return 'chicago.csv'
             elif city.lower() == 'new york':
-                return 'C:/Users/JulioGerardoEspinosa/Desktop/PyDev/BikeShare/DataSets/new_york_city.csv'
+                return 'new_york_city.csv'
             elif city.lower() == 'washington':
-                return 'C:/Users/JulioGerardoEspinosa/Desktop/PyDev/BikeShare/DataSets/washington.csv'
+                return 'washington.csv'
             break
         print('Sorry, I just have information for Chicago, New York or Washington...')
 
@@ -183,7 +183,7 @@ def main():
         station_stats(df_city)
         trip_duration_stats(df_city)
         
-        if city == 'C:/Users/JulioGerardoEspinosa/Desktop/PyDev/BikeShare/DataSets/washington.csv':
+        if city == 'washington.csv':
             user_statswc(df_city)
         else:
             user_stats(df_city)
@@ -191,7 +191,6 @@ def main():
         restart = input('\nDo you want to check another city? Enter yes or no.\n')
         if restart.lower() != 'yes':
             break
-
 
 if __name__ == "__main__":
 	main()
