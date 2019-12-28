@@ -7,9 +7,9 @@ import time
 import pandas as pd
 
 # Dictionary location file setup
-CITY_DATA = { 'chicago': 'C:/Users/JulioGerardoEspinosa/Desktop/PyDev/BikeShare/DataSets/chicago.csv',
-              'new york city': 'C:/Users/JulioGerardoEspinosa/Desktop/PyDev/BikeShare/DataSets/new_york_city.csv',
-              'washington': 'C:/Users/JulioGerardoEspinosa/Desktop/PyDev/BikeShare/DataSets/washington.csv' }
+CITY_DATA = { 'chicago': 'chicago.csv',
+              'new york city': 'new_york_city.csv',
+              'washington': 'washington.csv' }
 
 # get user input for city (chicago, new york city, washington)
 def get_city():
