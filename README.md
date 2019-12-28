@@ -1,5 +1,7 @@
 
 # Programming for Data Science ***NanoDegree Udacity Project***
+## Author
+Created by **jerryespn**
 
 ### Date created
 **December 28, 2019**
@@ -33,7 +35,7 @@ It is possible to make the analysis of the data filtering by month, by day and b
 
 ### Files used
 
-The data that it was used at this project was provided by **Motivate**, it is a bike share system provider for many cities in United States. The files used for this project came from Chicago, New York and Washington. The files are as follows:
+The data that it was used at this project was provided by [**Motivate**](https://www.motivateco.com/), it is a bike share system provider for many cities in United States. The files used for this project came from Chicago, New York and Washington. The files are as follows:
 
 <ul>
 	<li> chicago.csv </li>
@@ -45,4 +47,4 @@ The data that it was used at this project was provided by **Motivate**, it is a 
 
 I would like to thank to my mentor and master Ian García for be patient and put me on the way of Udacity training.
 
-It would not have been possible for me to take this course without [Axity's](https://www.axity.com/es/) support, so I would also like to thank the Information Management area for supporting me and the Architects team.
+It would not have been possible for me to take this course without [**Axity's**](https://www.axity.com/es/) support, so I would also like to thank the Information Management area for supporting me and the Architects team.
