@@ -1,5 +1,5 @@
 
-# Programming for Data Science **NanoDegree Udacity Project**
+# Programming for Data Science ***NanoDegree Udacity Project***
 
 ### Date created
 **December 28, 2019**
@@ -44,4 +44,5 @@ The data that it was used at this project was provided by **Motivate**, it is a 
 ### Credits
 
 I would like to thank to my mentor and master Ian García for be patient and put me on the way of Udacity training.
-It would not have been possible for me to take this course without Axity's support, so I would also like to thank the Information Management area for supporting me and the Architects team.
+
+It would not have been possible for me to take this course without [Axity's](https://www.axity.com/es/) support, so I would also like to thank the Information Management area for supporting me and the Architects team.
