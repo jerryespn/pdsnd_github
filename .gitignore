@@ -1,0 +1,11 @@
+
+# Created by https://www.gitignore.io/api/python
+# Edited by JGEL
+# December 2019
+
+### Python ###
+# Byte-compiled / optimized / DLL files
+
+# Distribution / packaging
+DataSets/*.csv
+
